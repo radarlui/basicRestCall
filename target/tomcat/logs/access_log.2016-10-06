@@ -1,8 +1,0 @@
-0:0:0:0:0:0:0:1 - - [06/Oct/2016:07:03:25 -0400] "GET /basicRestCalls/flights/intl/flight/1.xml HTTP/1.1" 200 223 http-bio-8080-exec-1 151
-0:0:0:0:0:0:0:1 - - [06/Oct/2016:07:04:22 -0400] "POST /basicRestCalls/flights/intl/flight HTTP/1.1" 200 118 http-bio-8080-exec-4 96
-0:0:0:0:0:0:0:1 - - [06/Oct/2016:07:04:34 -0400] "GET /basicRestCalls/flights/intl/flights HTTP/1.1" 200 442 http-bio-8080-exec-6 21
-0:0:0:0:0:0:0:1 - - [06/Oct/2016:07:05:43 -0400] "PUT /basicRestCalls/flights/intl/flights/4 HTTP/1.1" 405 1045 http-bio-8080-exec-9 12
-0:0:0:0:0:0:0:1 - - [06/Oct/2016:07:06:20 -0400] "PUT /basicRestCalls/flights/intl/flight/4 HTTP/1.1" 200 54 http-bio-8080-exec-1 9
-0:0:0:0:0:0:0:1 - - [06/Oct/2016:07:06:30 -0400] "GET /basicRestCalls/flights/intl/flights HTTP/1.1" 200 442 http-bio-8080-exec-4 3
-0:0:0:0:0:0:0:1 - - [06/Oct/2016:07:06:51 -0400] "DELETE /basicRestCalls/flights/intl/flight/4 HTTP/1.1" 200 54 http-bio-8080-exec-6 7
-0:0:0:0:0:0:0:1 - - [06/Oct/2016:07:06:56 -0400] "GET /basicRestCalls/flights/intl/flights HTTP/1.1" 200 334 http-bio-8080-exec-4 3
